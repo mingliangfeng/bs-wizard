@@ -3,6 +3,7 @@
 jQuery wizard plugin based on Bootstrap.
 
 Inspired by [acc-wizard](https://github.com/sathomas/acc-wizard), this wizard is different from acc-wizard in a few ways:
+
 1. Source is CoffeeScript;
 1. Not based on hash when move forward and backward;
 1. Not Bootstrap accordion-based;
