@@ -56,7 +56,7 @@ $.fn[pluginName].defaults =
   nextType: "submit"                           # HTML input type for next button
   backType: "reset"                            # HTML input type for back button
   nextClasses: "btn btn-primary"               # class(es) for next button
-  backClasses: "btn"                           # class(es) for back button
+  backClasses: "btn btn-default"               # class(es) for back button
   beforeNext: -> true                          # hook before going to next step, e.g. used for validation
   onNext: -> true                              # function to call on next step
   beforeBack: -> true                          # hook before going to previous step

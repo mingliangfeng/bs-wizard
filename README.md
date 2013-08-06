@@ -9,9 +9,13 @@ Inspired by [acc-wizard](https://github.com/sathomas/acc-wizard), this wizard is
 1. Not Bootstrap accordion-based;
 1. More events and utilize public methods.
 
+This plugin also includes a beautiful CSS file which is borrowed from acc-wizard, but this is absolutely optional, you can provide your own style.
 
-This plugin also includes the appropriate CSS which is borrowed from acc-wizard. To initialize wizard:
+To initialize the wizard:
 
     $(function() {
     	$(".bs-wizard").bs_wizard();
     });
+
+
+Check live demo [here](http://mingliangfeng.me/github%20project/2013/08/02/bs-wizard-demo/)
