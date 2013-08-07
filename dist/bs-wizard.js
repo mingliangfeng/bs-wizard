@@ -54,7 +54,7 @@
     nextType: "submit",
     backType: "reset",
     nextClasses: "btn btn-primary",
-    backClasses: "btn",
+    backClasses: "btn btn-default",
     beforeNext: function() {
       return true;
     },
