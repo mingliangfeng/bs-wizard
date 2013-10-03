@@ -61,3 +61,7 @@ Public methods list:
 * **go_next** Go to next step
 * **go_prev** Go back to previous step
 * **show_step** Go to wizard step, starting from 1
+
+## License
+
+bs-wizard is licensed under the MIT license.
